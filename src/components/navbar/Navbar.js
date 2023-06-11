@@ -1,5 +1,5 @@
 import React from 'react';
-import aplogo from '../assets/header-imgs/apple.png';
+import aplogo from '../../assets/header-imgs/apple.png';
 import './Navbar.css'
 
 function Navbar() {

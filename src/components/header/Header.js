@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.css';
 
-import phonoImage from '../assets/header-imgs/download 1.png'
+import phonoImage from '../../assets/header-imgs/download 1.png'
 
 
 function Header() {

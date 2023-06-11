@@ -1,14 +1,14 @@
 import React from 'react';
-import './Footer.css'
-import count1 from '../assets/count1.png'
-import count2 from '../assets/count2.png'
-import count3 from '../assets/count3.png'
-import qrImg from '../assets/qrcode.png'
-import applogo from '../assets/header-imgs/apple.png'
-import tele from '../assets/social-icons/tele.png'
-import tweet from '../assets/social-icons/tweet.png'
-import discord from '../assets/social-icons/discord.png'
-import footerPhones from '../assets/footerPhones.png'
+import '../footer/Footer.css'
+import count1 from '../../assets/count1.png'
+import count2 from '../../assets/count2.png'
+import count3 from '../../assets/count3.png'
+import qrImg from '../../assets/qrcode.png'
+import applogo from '../../assets/header-imgs/apple.png'
+import tele from '../../assets/social-icons/tele.png'
+import tweet from '../../assets/social-icons/tweet.png'
+import discord from '../../assets/social-icons/discord.png'
+import footerPhones from '../../assets/footerPhones.png'
 
 
 function Footer() {

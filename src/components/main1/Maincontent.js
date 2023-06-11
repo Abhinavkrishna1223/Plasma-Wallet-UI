@@ -1,17 +1,17 @@
 import React from 'react'
 import './Maincontent.css';
-import phoneImg from '../assets/header-imgs/Rectangle.png'
-import go from '../assets/go.png'
-import go1 from '../assets/goicons/Ellipse 1.png'
-import go2 from '../assets/goicons/Ellipse 2.png'
-import go3 from '../assets/goicons/Ellipse 3.png'
-import go4 from '../assets/goicons/Ellipse 4.png'
-import go5 from '../assets/goicons/Ellipse 5.png'
-import go6 from '../assets/goicons/Ellipse 6.png'
-import go7 from '../assets/goicons/Ellipse 7.png'
-import go8 from '../assets/goicons/Ellipse 8.png'
+import phoneImg from '../../assets/header-imgs/Rectangle.png'
+import go from '../../assets/go.png'
+import go1 from '../../assets/goicons/Ellipse 1.png'
+import go2 from '../../assets/goicons/Ellipse 2.png'
+import go3 from '../../assets/goicons/Ellipse 3.png'
+import go4 from '../../assets/goicons/Ellipse 4.png'
+import go5 from '../../assets/goicons/Ellipse 5.png'
+import go6 from '../../assets/goicons/Ellipse 6.png'
+import go7 from '../../assets/goicons/Ellipse 7.png'
+import go8 from '../../assets/goicons/Ellipse 8.png'
 
-import ph2 from '../assets/ph2.png'
+import ph2 from '../../assets/ph2.png'
 
 
 function Maincontent() {

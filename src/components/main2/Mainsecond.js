@@ -1,8 +1,8 @@
 import React from 'react'
 import './Mainsecond.css'
-import phimg from '../assets/ph2.png'
-import check from '../assets/check.png'
-import skull from '../assets/skull.png'
+import phimg from '../../assets/ph2.png'
+import check from '../../assets/check.png'
+import skull from '../../assets/skull.png'
 
 
 function Mainsecond() {

@@ -1,11 +1,11 @@
 
 import React from 'react';
 import './MainThird.css';
-import bigphone from '../assets/bigphoneimg.png';
-import darrow from '../assets/doublearr.png';
-import unicorncard from '../assets/unicorn.png';
-import parliament from '../assets/parliament.png';
-import phoneImg from '../assets/phone.png';
+import bigphone from '../../assets/bigphoneimg.png';
+import darrow from '../../assets/doublearr.png';
+import unicorncard from '../../assets/unicorn.png';
+import parliament from '../../assets/parliament.png';
+import phoneImg from '../../assets/phone.png';
 
 function MainThird() {
     return (
