@@ -1,11 +1,11 @@
 import React from "react";
 import './App.css';
-import Header from "./components/Header";
-import Maincontent from "./components/Maincontent";
-import Mainsecond from "./components/Mainsecond";
-import MainThird from "./components/MainThird";
-import Footer from "./components/Footer";
-import Navbar from "./components/Navbar";
+import Header from "./components/header/Header";
+import Maincontent from "./components/main1/Maincontent";
+import Mainsecond from "./components/main2/Mainsecond";
+import MainThird from "./components/main3/MainThird";
+import Navbar from "./components/navbar/Navbar";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -16,6 +16,7 @@ function App() {
       <Mainsecond/>
       <MainThird/>
       <Footer/>
+      
     </div>
   );
 }
