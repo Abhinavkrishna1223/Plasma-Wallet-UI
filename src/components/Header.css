@@ -1,0 +1,16 @@
+.ph-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-img{
+    width: 100%;
+    margin: auto;
+}
+
+.main-img img{
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+

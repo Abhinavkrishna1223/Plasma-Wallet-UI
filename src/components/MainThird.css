@@ -1,0 +1,277 @@
+.MainThird-container {
+    width: 100%;
+    background-color: #141414;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.handtxt {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 62px;
+    line-height: 118px;
+    /* identical to box height, or 189% */
+
+
+    color: #DDDDDD;
+    margin-top: 130px;
+    text-align: center;
+
+}
+
+.bigPhone {
+    width: 1300px;
+    background: #000000;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 130px;
+}
+
+.bgImg img {
+    width: 416px;
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+.bphone-txt {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 77px;
+    /* or 150% */
+
+
+    background: linear-gradient(180deg, #FFFFFF 0%, #808080 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-top: 170px;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.bpsmall-txt {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 41px;
+    /* or 150% */
+
+    letter-spacing: 0.005em;
+
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+
+.black-cards {
+    margin-top: 40px;
+    display: flex;
+}
+
+.card-I {
+    width: 630px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #000000;
+    border-radius: 24px;
+    margin: 20px;
+}
+
+.resT {
+    width: 40px;
+    height: 40px;
+    margin-top: 50px;
+}
+
+.crdTxt {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 46px;
+    /* or 150% */
+
+    text-align: center;
+
+    color: #EFEFEF;
+    margin-top: 40px;
+
+}
+
+.smcrdTxt {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 48px;
+    /* identical to box height, or 200% */
+
+    letter-spacing: 0.005em;
+
+    color: #FFFFFF;
+    margin-top: 25px;
+
+}
+
+.bigCard img {
+    width: 500px;
+    margin-top: 40px;
+}
+
+.secondPhone {
+    margin-top: 40px;
+}
+
+
+@media (max-width:1220px) {
+
+    .bigPhone {
+        width: 1122px;
+    }
+
+    .card-I {
+        width: 543px;
+    }
+}
+
+
+@media (min-width:820px) and (max-width:1150px) {
+
+    .bigPhone {
+        width: 800px;
+        margin-top: 78px;
+    }
+
+    .bphone-txt {
+        font-size: 37px;
+        line-height: 46px;
+        margin-top: 101px;
+    }
+
+    .bpsmall-txt {
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 35px;
+    }
+
+    .bgImg img {
+        width: 324px;
+        margin-top: 0;
+    }
+
+    .crdTxt {
+        font-weight: 600;
+        font-size: 23px;
+        line-height: 40px;
+    }
+
+    .smcrdTxt {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 48px;
+    }
+
+    .secondPhone img {
+        width: 309px
+    }
+
+    .bigCard img {
+        width: 350px;
+    }
+
+    .handtxt{
+        font-size: 45px;
+        line-height: 0;
+        margin-top: 55px;
+    }
+
+    .card-I {
+        width: 380px;
+    }
+
+    .count-txt {
+        font-size: 6px;
+    }
+
+    
+}
+
+@media(max-width:820px) {
+
+    .handtxt {
+        margin-top: 32px;
+        font-size: 18px;
+        line-height: 0;
+    }
+
+    .bigPhone {
+        width: 340px;
+        margin-top: 27px;
+    }
+
+    .bgImg img {
+        width: 117px;
+        margin-top: 27px;
+        margin-bottom: 10px;
+    }
+
+    .bphone-txt {
+        font-size: 14px;
+        line-height: 21px;
+        margin-top: 50px;
+    }
+
+    .bpsmall-txt {
+        font-size: 6px;
+        line-height: 11px;
+        margin-top: 18px;
+    }
+
+    .black-cards{
+        margin-top:0;
+    }
+
+    .card-I {
+        width: 160px;
+        margin: 10px;
+    }
+
+    .resT {
+        width: 20px;
+        height: 20px;
+        margin-top: 28px;
+    }
+
+    .crdTxt {
+        font-size: 8px;
+        line-height: 14px;
+        margin-top: 18px;
+    }
+
+    .smcrdTxt {
+        font-size: 4px;
+        line-height: 2px;
+        margin-top: 10px;
+    }
+
+    .bigCard img {
+        width: 103px;
+        margin-top: 16px;
+    }
+
+    .secondPhone {
+        margin-top: 16px;
+    }
+
+    .secondPhone img {
+        width: 77px;
+    }
+}
