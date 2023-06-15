@@ -187,18 +187,20 @@ li {
     }
 
     .grey {
-        font-size: 5px;
+        font-size: 14px;
         margin: 3px 0;
     }
 
     li {
-        font-size: 4px;
-        margin: 3px 14px;
+        font-size: 13px;
+        margin: 3px 8px;
     }
 
     .last-grey {
-        font-size: 6px;
-        margin: 3px 0;
+        width: 100%;
+        font-size: 16px;
+        text-align: center;
+        margin: 2px 0;
     }
 
     @media(max-width:350px){
