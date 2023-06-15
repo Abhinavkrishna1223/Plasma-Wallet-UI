@@ -184,6 +184,7 @@ li {
 
     .footer-wrap {
         margin: 3px 0;
+        flex-wrap: wrap;
     }
 
     .grey {
