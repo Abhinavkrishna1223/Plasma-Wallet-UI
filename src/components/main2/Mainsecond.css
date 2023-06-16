@@ -15,7 +15,7 @@
 
     text-align: center;
 
-    background: white;
+    background: linear-gradient(180deg, #FFFFFF 0%, #808080 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;

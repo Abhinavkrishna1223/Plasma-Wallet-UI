@@ -12,9 +12,7 @@ function Mainsecond() {
 
                 <div className="p-txt">
                     Personality
-                </div>
-
-                <div className="p-txt">
+                    <br />               
                     is important
                 </div>
 
