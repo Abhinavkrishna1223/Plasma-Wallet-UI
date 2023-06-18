@@ -22,7 +22,7 @@ function Mainsecond() {
             </div>
 
             <div className="img-wrap">
-                <img src={phimg} alt="" />
+                <img src={phimg} alt="" data-aos="fade"  data-aos-duration="4000"   data-aos-delay="300" />
             </div>
 
             <div className="privacy">
