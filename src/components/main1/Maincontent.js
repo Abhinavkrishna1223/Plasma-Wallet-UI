@@ -19,8 +19,8 @@ function Maincontent() {
         <div className='container'>
         
             <div className='txt-container'>
-                <div className='txtmain-container'>
-                    <div className="txt-con">
+                <div  className='txtmain-container'>
+                    <div className="txt-con"  data-aos="fade"  data-aos-duration="4000"   data-aos-delay="300" >
                         Self-Custody
                         <br />
                         Crypto Wallet
@@ -37,7 +37,7 @@ function Maincontent() {
             <div className="ph-txt">
                 <div className="phone-txt">
 
-                    <div className="inner-txt">
+                    <div className="inner-txt" data-aos="fade"  data-aos-duration="4000"   data-aos-delay="300">
                         Store, Send,
                         <br />
                         Receive and Trade
@@ -49,7 +49,7 @@ function Maincontent() {
     
                 </div>
 
-                <div className="phonImg">
+                <div className="phonImg" data-aos="fade"  data-aos-duration="5000"   data-aos-delay="1000">
                     <img src={phoneImg} alt="imhg" />
                 </div>
 
@@ -58,15 +58,15 @@ function Maincontent() {
 
             <div className="parent-chain">
 
-                <div className="go-img">
+                <div className="go-img" data-aos="fade"  data-aos-duration="4000"   data-aos-delay="300">
                     <img src={go} alt="" />
                 </div>
 
-                <div className="go-txt">
+                <div className="go-txt" data-aos="fade"  data-aos-duration="4000"   data-aos-delay="600">
                     Unlimited support of all EVM Chains with the fastest RPC
                 </div>
 
-                <div className="go-icons">
+                <div className="go-icons" data-aos="fade"  data-aos-duration="4000"   data-aos-delay="600">
                     <img src={go1} alt="" />
                     <img src={go2} alt="" />
                     <img src={go3} alt="" />
@@ -81,9 +81,9 @@ function Maincontent() {
 
             <div className="ph2 ">
 
-                <img src={ph2} alt="" />
+                <img src={ph2} alt="" data-aos="fade"  data-aos-duration="5000"   data-aos-delay="1000" />
 
-                <div className="ph2txt-cntnr">
+                <div className="ph2txt-cntnr" data-aos="fade"  data-aos-duration="4000"   data-aos-delay="300" >
 
                     <div className="ph2txt">
                         Get
@@ -111,7 +111,7 @@ function Maincontent() {
             </div>
 
             <div className="ph2">
-                <div  className="ph2txt-cntnr">
+                <div  className="ph2txt-cntnr" data-aos="fade"  data-aos-duration="4000"   data-aos-delay="300">
                     <div className="ph2txt ">
                         All
                         <br />
@@ -134,15 +134,15 @@ function Maincontent() {
 
                 </div>
 
-                <img src={ph2} alt="" />
+                <img src={ph2} alt=""data-aos="fade"  data-aos-duration="5000"   data-aos-delay="1000" />
 
             </div>
 
             <div className="ph2">
 
-                <img src={ph2} alt="" />
+                <img src={ph2} alt="" data-aos="fade"  data-aos-duration="5000"   data-aos-delay="1000" />
 
-                <div className="ph2-cont mt-2">
+                <div className="ph2-cont mt-2" data-aos="fade"  data-aos-duration="4000"   data-aos-delay="300">
 
                     <div className="ph2txt">
                         NFT
